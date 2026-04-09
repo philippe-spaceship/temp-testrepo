@@ -1,5 +1,5 @@
 const KNOWN_PROMOS = {
-  WELCOME10: { type: "percent", value: 10 },
+  WELCOME10: { type: "percent", value: 20 },
   VIP25: { type: "percent", value: 25 },
   SHIPFREE: { type: "shipping", value: 7.5 }
 };
