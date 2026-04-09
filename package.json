@@ -1,0 +1,11 @@
+{
+  "name": "temp-testrepo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Small promo pricing engine for webhook doc testing",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "demo": "node src/index.js"
+  }
+}
