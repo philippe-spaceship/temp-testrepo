@@ -5,7 +5,7 @@ const sampleOrders = [
   {
     id: "ord-1001",
     customerTier: "new",
-    promoCode: "WELCOME10",
+    promoCode: "WELCOME2026",
     items: [
       { sku: "TSHIRT-BLK-M", quantity: 2, unitPrice: 24.99 },
       { sku: "MUG-WHT-12OZ", quantity: 1, unitPrice: 12.5 }
