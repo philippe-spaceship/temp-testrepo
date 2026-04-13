@@ -28,7 +28,7 @@ export function calculateOrderTotal(order) {
   }
 
   const taxBase = Math.max(0, subtotal - discount);
-  const tax = taxBase * 0.20;
+  const tax = taxBase * 0.25;
   const total = taxBase + tax + shipping;
 
   return {
